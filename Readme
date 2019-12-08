@@ -1,0 +1,3 @@
+1.This project has 2 Batch Jobs each for processing CSV and XML Reports using SpringBoot
+2. The Input files needs to be placed in src/main/resources/input folder and the path of the file needs to be updated in CSVBatchConfig.java and XMLBatchConfig.java files.
+3. Run the application as SpringBoot App(right click project->RunAs->SpringBoot App)
